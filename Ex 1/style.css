@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hwb(214 5% 37% / 0.521);
+    margin: 0;
+    padding: 0;
+    }
+
+h1 {
+    color: #f5e9e9;
+    text-align: center;
+    margin-top: 50px;
+    }
+
+    /*CLASS*/        
+.subtexto {
+    color: #0b438b;
+    font-size: 20px;
+    }
+
+
+
+header, footer {
+        background: #82b5f8;
+        color: #fff;
+        padding: 10px 20px;
+        text-align: center;
+}
+
+.container {
+    color: aliceblue;
+}
